@@ -1,0 +1,28 @@
+{
+    "animais": [
+      {
+        "id": 1,
+        "nome": "Golfinho",
+        "tipo": "mamífero",
+        "descricao": "Mamífero marinho inteligente e sociável.",
+        "imagem": "https://lereaprender.com.br/wp-content/uploads/2020/09/golfinho.png"
+        
+      },
+      {
+        "id": 2,
+        "nome": "Tubarão",
+        "tipo": "peixe",
+        "descricao": "Predador com excelente olfato e percepção elétrica.",
+        "imagem": "https://t1.ea.ltmcdn.com/pt/razas/8/7/7/tubarao-branco_778_0_orig.jpg"
+      },
+
+      {
+        "id": 4,
+        "nome": "Estrela-do-mar",
+        "tipo": "equinodermo",
+        "descricao": "Animal marinho com braços simétricos.",
+        "imagem": "https://meusanimais.com.br/wp-content/uploads/2019/04/descricao-estrela-do-mar.jpg"
+      }
+    ]
+  }
+  
